@@ -1,0 +1,9 @@
+path: C:/Helmet_Detection/data
+train: train
+val: val
+#labels: labels
+
+# Classes
+names:
+  0: With Helmet
+  1: Without Helmet
